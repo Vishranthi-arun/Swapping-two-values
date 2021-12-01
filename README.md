@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1:
 Get the two values from the user
 ### Step 2: 
-Assign the value of second variable to a temporary variable 
+Assign the value of second variable to a temporary variable.
 ### Step 3: 
 Assign the value of the first variable to the second variable.
 ### Step 4:  
@@ -28,7 +28,7 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![OUTPUT](./Ex01.JPG)
+![OUTPUT](./Ex01.jpg)
 
 
 ## RESULT:
